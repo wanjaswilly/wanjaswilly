@@ -7,7 +7,7 @@
 - 📫 How to reach me :
   
   * email -> wanjaswilly@gmail.com
-  * phone -> +254790052730/0741400006
+  * phone -> +254790052730
   * site  -> https://wanjaswilly.site
 <!---
 wanjaswilly/wanjaswilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
