@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing creative applications and sites
 - 🌱 I have specialized in Web development 
 - 🌱 I'm an expert in Laravel and Flask, with Tailwind CSS & Bootstrap as add-ons.
-- 🌱 Currently, I’m  learning VueJS
+- 🌱 Currently, I’m  learning SlimPHP
 - 💞️ I’m looking to collaborate on creating solutions to day-to-day problems
 - 📫 How to reach me :
   
