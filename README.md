@@ -1,89 +1,13 @@
-##  Wilson Wanja
+## Wilson Wanja  
+Founder & Full-Stack Developer @ https://4ly.co.ke  
 
-Founder & Full-Stack Developer @ https://4ly.co.ke
+I build and maintain backend systems for real-world use such as payments, CMS platforms, automation tools, and internal dashboards. My focus is less on just shipping features and more on how systems behave in production: performance, reliability, and maintainability over time. 
 
-I build and maintain backend systems, mostly for real-world use (payments, content systems, automation tools, internal dashboards). 
-Over time I’ve leaned more into how systems behave in production than just getting features to work.
 
-###  What I focus on
-- Backend development (APIs, data flow, system design)
-- Building systems that can run with minimal resources
-- Automation (reducing manual work through scripts and services)
-- Designing things that are easy to extend later
+Most of my work revolves around system architecture & design, secure authentication, payment integrations, and multi-tenant CMS architectures for blogs, ecommerce, and company sites. I also build internal CLI tools to speed up development workflows. I prefer simple, traceable logic over heavy abstraction, and design systems in a way that makes them easy to extend without breaking existing functionality.
 
-### My Stack
-- PHP (Laravel, Slim 4)
-- Python (Flask + scripting)
-- MySQL / SQLite
-- TailwindCSS
-- NGINX (routing, performance tuning)
+I work mainly with PHP (Laravel, Slim 4) and Python (Flask), alongside MySQL/SQLite, keeping frontend tooling minimal unless necessary.
 
-I tend to avoid heavy frameworks on the frontend unless necessary.
+On the systems side, I handle Linux server setup, CI/CD with GitHub Actions, Docker where needed, and NGINX configuration for routing and performance. I pay attention to practical security and resource efficiency. 
 
-###  Backend
-Most of my work is here.
-I’ve built:
-- REST APIs for mobile/web apps
-- Authentication systems (sessions + JWT, depending on use case)
-- Payment integrations (M-PESA, KopoKopo, Pesapal)
-- Multi-tenant CMS systems (blogs, ecommerce, company sites)
-- CLI tools for speeding up development (migrations, scaffolding)
-
-I care about:
-- Keeping logic predictable and easy to trace
-- Avoiding unnecessary abstraction
-- Structuring code so future changes don’t break everything
-
-###  Systems / DevOps
-Not “DevOps” in title, but I do the work:
-- Linux server setup and scripting
-- CI/CD automation with Github actions
-- Docker (when isolation is needed)
-- NGINX config (routing, caching, basic optimization)
-- Running lightweight workloads (including experiments with Firecracker)
-
-I tend to optimize for:
-- low memory usage
-- simplicity
-- fewer moving parts
-
-### Security (practical level)
-- Understanding MITM risks and where JWT can fail
-- All API protection patterns
-- Not overengineering, but not being careless either
-
-### Current work (4ly)
-At 4ly I’m building and maintaining:
-- Blog systems
-- Ecommerce platforms
-- Company websites
-- POS systems
-- Custom client solutions
-
-We also run:
-- CMS systems for each product type
-- Developer-friendly hosting for developers with github project showcasing:
-  - `<username>.4ly.ke` subdomains
-  - Ksh 100/month hosting (simple, accessible setup)
-
-### Things I’ve worked on / explored
-
-- YouTube API integrations + Pub/Sub notifications
-- AI-assisted content aggregation (for music/news)
-- URL shortener (auth-based, similar to Bitly)
-- Finance automation system (SIM-based control + logging)
-- Video processing pipelines (FFmpeg)
-- Android apps (Canvas-based, small APK focus)
-- Tor-based distributed system experiments
-
-### Collaboration
-
-Mostly interested in:
-- tools that solve actual problems
-- backend-heavy systems
-- fintech / automation / infrastructure-type work
-
-### Contact
-
-- Email: wanjaswilly@gmail.com
-- Phone: +254790052730
+At 4ly, I’m building a platform that provides CMS solutions and low-cost developer hosting (`<username>.4ly.ke`, Ksh 100/month). I’ve also worked on projects involving YouTube Pub/Sub, AI content aggregation, finance automation, FFmpeg pipelines, and distributed systems experiments.
